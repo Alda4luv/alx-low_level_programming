@@ -34,7 +34,7 @@ if (c + d != 17)
 putchar(',');
 putchar(' ');
 }
-}	
+}
 c++;
 }
 d++;
