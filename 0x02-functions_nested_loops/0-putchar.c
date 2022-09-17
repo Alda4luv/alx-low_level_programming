@@ -11,7 +11,7 @@ int main(void)
 	-putchar('p');
 	-putchar('u');
 	-putchar('t');
-	-putchar('t');
+	-putchar('c');
 	-putchar('h');
 	-putchar('a');
 	-putchar('r');
